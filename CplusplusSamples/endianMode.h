@@ -5,7 +5,7 @@ using namespace std;
 class EndianMode {
 public:
 	EndianMode() {
-		printf("--------endian mode--------\n");
+		printf("\n--------endian mode--------\n");
 
 		unsigned int x;
 		unsigned char *p;
